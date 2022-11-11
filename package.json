@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.2",
-    "node-dig-dns": "^0.3.2",
+    "node-dig-dns": "0.3.2",
     "nodemon": "^2.0.15",
     "rest": "^2.0.0",
     "whoiser": "^1.13.1"
