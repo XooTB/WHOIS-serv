@@ -19,7 +19,7 @@
     "express": "^4.17.2",
     "node-dig-dns": "^0.3.2",
     "rest": "^2.0.0",
-    "whoiser": "^1.13.1"
+    "whoiser": "1.13.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
